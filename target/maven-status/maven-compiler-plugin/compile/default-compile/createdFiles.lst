@@ -1,0 +1,11 @@
+com\usa\reto2\Services\UserService.class
+com\usa\reto2\web\GadgetWeb.class
+com\usa\reto2\Modelos\Gadget.class
+com\usa\reto2\Modelos\User.class
+com\usa\reto2\Repository\UserRepo.class
+com\usa\reto2\Reto2Application.class
+com\usa\reto2\Crud\GadgetInterface.class
+com\usa\reto2\Repository\GadgetRepo.class
+com\usa\reto2\Services\GadgetService.class
+com\usa\reto2\web\UserWeb.class
+com\usa\reto2\Crud\UserInterface.class
